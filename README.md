@@ -1,6 +1,6 @@
 # Hi, I'm Mehdi Alijani 👋
 
-### Automotive Software Engineer | Frontend Developer | AI Enthusiast
+### Automotive Software Engineer 
 
 🎓 Master's Student in Automotive Software Engineering at TH Deggendorf, Germany
 
@@ -41,9 +41,6 @@ I am passionate about building software solutions that connect:
 - Supabase
 - PostgreSQL
 - REST APIs
-
-
-
 
 ---
 
