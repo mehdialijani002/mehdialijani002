@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Mehdi Alijani 👋
 
-<!--
-**mehdialijani002/mehdialijani002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Automotive Software Engineer | Frontend Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 Master's Student in Automotive Software Engineering at TH Deggendorf, Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building software solutions that connect:
+- 🚗 Automotive systems
+- 💻 ADAS
+- 🤖 Artificial Intelligence
+- 🔧 Embedded systems
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Automotive & Embedded
+- C / C++
+- Embedded Systems
+- CAN Bus
+- AUTOSAR
+- OBD-II
+- Vehicle Networking
+
+### AI / Machine Learning
+- Python
+- TensorFlow
+- Scikit-learn
+- Machine Learning
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Material UI
+- React Query
+
+### Backend & Database
+- Next.js Backend
+- Supabase
+- PostgreSQL
+- REST APIs
+
+
+
+
+---
+
+## 📚 Currently Learning
+
+- Automotive Embedded Systems
+- AUTOSAR Classic
+- RTOS
+- Automotive Communication Networks
+- Advanced Driver Assistance Systems (ADAS)
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/mehdi-alijani-65692222a
+
+Portfolio: https://mehdi-alijanibaei.netlify.app
+
+Email: m.alijani002@gmail.com
